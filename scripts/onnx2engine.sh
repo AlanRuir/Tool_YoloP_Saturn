@@ -1,0 +1,1 @@
+trtexec --onnx=yolop.onnx --saveEngine=yolop.engine
